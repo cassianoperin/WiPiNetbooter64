@@ -30,6 +30,7 @@ Full image download link: (https://mega.nz/folder/D4hyHACR#WRjBIlZJ9JPfDcaYOz9LW
 21. Support for Argon NVMe SSDs
 22. Backup Manager to save and restore Wipi configurations
 23. Raspberry PI 3B hardware (OpenJVS Hat Serial port for card emulator will not work due to uart limitations)
+24. New ROM Hack Outrun 2 SP with the advertisement mode and ending game sprites url fixed to new Online Ranking (from outrun.jp to  wipi64.com)
 
 TODO:
 1. Add an apt source to update wipi packages
